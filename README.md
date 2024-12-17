@@ -1,5 +1,5 @@
 # ABOUT
-a website with display of random pictures, I got my fonts from google fonts and my images from a reliable source.
+a website with display of random pictures, I got my fonts from google fonts and my images from a reliable data.
 
 # SCREENSHOTS
 
